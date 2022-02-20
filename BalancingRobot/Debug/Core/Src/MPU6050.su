@@ -1,0 +1,8 @@
+MPU6050.c:40:6:MPU_Init	32	static
+MPU6050.c:67:6:MPU_Read	32	static
+MPU6050.c:78:6:MPU_Calibrate	104	static
+MPU6050.c:107:6:MPU_GetGYROValue	16	static
+MPU6050.c:124:6:MPU_GetACCELValue	16	static
+MPU6050.c:141:6:MPU_GetAngle	56	static
+MPU6050.c:172:14:XKalmanFilter	40	static
+MPU6050.c:218:14:YKalmanFilter	40	static
